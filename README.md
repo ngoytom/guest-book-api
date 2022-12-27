@@ -32,7 +32,7 @@ First time experimenting with PHP and Laravel. Any feedback is greatly appreciat
 	- Get entries with matching name or message based on query
     - ### `http://localhost:8000/api/v1/guestbook?name[eq]=Prof.%20Lincoln%20Schinner`
 	    -  Will return all entries with name 'Prof. Lincoln Schinner'
-8) Refactor code and check completion of test Cases/requirements (EST: 20 min, Recorded: 35 min)
+8) Refactor code and check completion of test cases/requirements (EST: 20 min, Recorded: 35 min)
 
 ## What I learned
 - Laravel and PHP application structure
